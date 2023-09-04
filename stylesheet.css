@@ -12,3 +12,14 @@ p {
   /* Gantikan warna ke #006400*/
   color: #006400;
 }
+h1{
+  color: #e6855e;
+  font-size:30px;
+  background-color:#f3f372;
+  height:80px;
+  width:20px;
+}
+img{
+  height:50px;
+  width:70px;
+}
