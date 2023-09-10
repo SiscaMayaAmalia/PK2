@@ -1,3 +1,28 @@
+li{
+  color : aquamarine
+}
+
+.selescted{
+  color :bisque
+}
+
+li (
+  list-style: none;
+  float : left;
+  padding: 33px 20px;
+)
+
+.header {
+  background-color: lightskyblue;
+  color: black;
+  height: 90px;
+)
+ .header-logo {
+   font-size: 36px; padding: 20px 40px;
+   float: Left;
+)
+
+
 h1{
   /* Gantikan warna ke #F0E68C */
   color: #F0E68C;
