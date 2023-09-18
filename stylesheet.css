@@ -104,8 +104,8 @@ li {
 
 
 
-
-
+opacity: 0.8;
+border-radius:4px;
 }
 .btn: hover {
   opacity: 1;
